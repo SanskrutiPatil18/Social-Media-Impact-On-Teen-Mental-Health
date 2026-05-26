@@ -2,3 +2,4 @@ streamlit==1.36.0
 pandas==2.2.2
 scikit-learn==1.4.2
 joblib==1.5.3
+pillow==10.3.0
